@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "paulilai.info",
+    "description": "",
+    "home_page_url": "https://kaizen42u.github.io/paulilai.info",
+    "feed_url": "https://kaizen42u.github.io/paulilai.info/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "kaizen42"
+    },
+    "items": [
+    ]
+}

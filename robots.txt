@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kaizen42u.github.io/paulilai.info/sitemap.xml
